@@ -8,5 +8,6 @@ MOUSEKEY_ENABLE     = no
 OLED_ENABLE         = no
 EXTRAKEY_ENABLE     = yes
 COMBO_ENABLE        = no
+TAP_DANCE_ENABLE    = yes
 
 QMK_SETTINGS        = no
